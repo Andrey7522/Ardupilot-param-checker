@@ -16,13 +16,12 @@ A utility for quickly checking the configuration of ArduPilot-based drones (Plan
 ## 🛠 Installation and Run (from Source)
 
 1. Make sure you have Python 3.8+ installed. 
-
 2. Clone the repository:
 ```bash
 git clone https://github.com/Andrey7522/Ardupilot-param-checker.git
 cd Ardupilot-param-checker
 
-## 📦 Building EXE for Windows
+# 📦 Building EXE for Windows
 
 1. Install PyInstaller:
 
