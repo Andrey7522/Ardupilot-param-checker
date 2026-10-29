@@ -40,8 +40,5 @@ check_params.exe "C:\Users\andre\Desktop\Work\Params.param"
 
 ## 📸 Example of work
 
-<p align="center">
-  <img src="screenshots/screen.png" alt="Main Screen" width="30%">
-</p>
 
 ## 👨‍💻 Author: Andrey Chebotarev
