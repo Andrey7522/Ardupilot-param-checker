@@ -81,7 +81,7 @@ dist\check_params.exe "C:\Users\andre\Desktop\Work\Params.param"
 ## 📸 Example of Work
 
 <p align="center">
-  <img src="screenshots/screen.png" alt="Main Screen" width="30%">
+  <img src="screenshots/screen.png" alt="Main Screen" width="50%">
 </p>
 
 
