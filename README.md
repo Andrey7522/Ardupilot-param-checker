@@ -85,4 +85,5 @@ dist\check_params.exe "C:\Users\andre\Desktop\Work\Params.param"
 </p>
 
 
-## 👨‍💻 Author:  Andrey Chebotarev
+## 👨‍💻 Author:  
+Andrey Chebotarev
